@@ -1,0 +1,6 @@
+[book]
+authors = ["techzealot"]
+language = "en"
+multilingual = false
+src = "src"
+title = "build your own git"
