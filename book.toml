@@ -3,7 +3,7 @@ authors = ["techzealot"]
 language = "en"
 multilingual = false
 src = "src"
-title = "build your own git"
+title = "一起玩git"
 
 [output.html]
 mathjax-support = true
